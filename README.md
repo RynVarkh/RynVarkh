@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RynVarkh</h1>
+<h1 align="center">Hi 👋🏻, I'm RynVarkh</h1>
 <h3 align="center">Exploring Django, Web3 DApps, ethical hacking, and Linux — always building & tinkering 🛠️🐧</h3>
 
 ---
